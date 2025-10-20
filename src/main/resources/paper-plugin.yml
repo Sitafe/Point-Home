@@ -1,4 +1,4 @@
-name: Point Home
+name: PointHome
 version: '1.0-SNAPSHOT'
 main: ru.pointhome.PointHome
 api-version: '1.21'

@@ -1,0 +1,21 @@
+# Конфигурация плагина PointHome
+messages:
+  set-home: "<green>Home successfully set!"
+  home-teleport: "<blue>Teleporting home!"
+  home-not-set: "<red>Error: Home not set."
+  player-only: "<gray>This command is for players only."
+  teleport-delay-start: "<yellow>Teleportation will start in <seconds> seconds. Don't move!"
+  teleport-delay-cancelled: "<red>Teleportation cancelled: you moved."
+teleport-delay:
+  enabled: true
+  seconds: 3
+teleport-sound:
+  enabled: true
+  volume: 1.0
+  pitch: 1.0
+teleport-particles:
+  enabled: true
+  count: 50
+delay-particles:
+  enabled: true
+  count: 5
