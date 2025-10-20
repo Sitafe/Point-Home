@@ -59,8 +59,5 @@ delay-particles:
 3. Build with Maven: `mvn clean package`
 4. Find the compiled `.jar` in the `target` folder.
 
-## License
-MIT License. See [LICENSE](LICENSE) for details.
-
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue for bugs or feature requests.
