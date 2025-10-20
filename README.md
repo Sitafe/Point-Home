@@ -11,7 +11,7 @@ A Minecraft Paper plugin that allows players to set and teleport to a home locat
 - **Multi-language Support**: Messages customizable via `config.yml`.
 
 ## Installation
-1. Download the latest release from [Releases](https://github.com/your-repo/releases).
+1. Download the latest release from [Releases](https://github.com/Sitafe/Point-Home/releases).
 2. Place the `.jar` file in your server's `plugins` folder.
 3. Restart the server or use `/reload` to load the plugin.
 4. Configure settings in `plugins/PointHome/config.yml` as needed.
