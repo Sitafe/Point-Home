@@ -1,0 +1,7 @@
+name: Point Home
+version: '1.0-SNAPSHOT'
+main: ru.pointhome.PointHome
+api-version: '1.21'
+prefix: PointHome
+authors: [ Sitafe ]
+description: Creates teleportation points.
